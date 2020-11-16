@@ -35,6 +35,24 @@
    font-style: normal;
 }
 @font-face {
+   font-family: "Glacial Indifference";
+   src: url("fonts/GlacialIndifference-Bold.woff") format("woff"), url("fonts/GlacialIndifference-Bold.eot") format("embedded-opentype"), url("fonts/GlacialIndifference-Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Glacial Indifference";
+   src: url("fonts/Glacial Indifference Italic.woff") format("woff"), url("fonts/Glacial Indifference Italic.eot") format("embedded-opentype"), url("fonts/Glacial Indifference Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Glacial Indifference";
+   src: url("fonts/Glacial Indifference Regular.woff") format("woff"), url("fonts/Glacial Indifference Regular.eot") format("embedded-opentype"), url("fonts/Glacial Indifference Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
    font-family: "Open Sans Semibold";
    src: url("fonts/Open Sans Semibold.woff") format("woff"), url("fonts/Open Sans Semibold.eot") format("embedded-opentype"), url("fonts/Open Sans Semibold.ttf") format("truetype"), url("fonts/Open Sans Semibold.svg") format("svg");
    font-weight: bold;
@@ -57,24 +75,6 @@
    src: url("fonts/Open-Sans-Semibold-Italic.woff") format("woff"), url("fonts/Open-Sans-Semibold-Italic.eot") format("embedded-opentype"), url("fonts/Open-Sans-Semibold-Italic.ttf") format("truetype"), url("fonts/Open-Sans-Semibold-Italic.svg") format("svg");
    font-weight: bold;
    font-style: italic;
-}
-@font-face {
-   font-family: "Glacial Indifference";
-   src: url("fonts/GlacialIndifference-Bold.woff") format("woff"), url("fonts/GlacialIndifference-Bold.eot") format("embedded-opentype"), url("fonts/GlacialIndifference-Bold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Glacial Indifference";
-   src: url("fonts/Glacial Indifference Italic.woff") format("woff"), url("fonts/Glacial Indifference Italic.eot") format("embedded-opentype"), url("fonts/Glacial Indifference Italic.otf") format("opentype");
-   font-weight: normal;
-   font-style: italic;
-}
-@font-face {
-   font-family: "Glacial Indifference";
-   src: url("fonts/Glacial Indifference Regular.woff") format("woff"), url("fonts/Glacial Indifference Regular.eot") format("embedded-opentype"), url("fonts/Glacial Indifference Regular.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
 }
 @font-face {
    font-family: "Antonio";
